@@ -1,0 +1,5 @@
+First generate bits
+then plz generate code
+then modulate
+then gen psd and time domain
+adjust noise and demodulate
